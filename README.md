@@ -33,6 +33,4 @@ http://www.gnu.org/licenses/gpl-3.0.en.html
 ---
 Donate
 ------
-If this ultimately saves you time, consider [donating](paypal.me/stnagy).
-
-
+If this ultimately saves you time, consider [donating](https://www.paypal.me/stnagy).
