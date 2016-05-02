@@ -4,6 +4,8 @@ A simple Microsoft Word macro for deleting strikethrough text from a claim set a
 
 This macro also turns on track changes so that the user can see all updates to the document made by the macro.
 
+Disclaimer: The author disclaims all liability arising from the use or modification of this software. No warrany is provided or should be implied. This software is provided as is. USE AT YOUR OWN RISK.
+
 ------
 Windows Installation (Word 2016)
 ------------

@@ -4,6 +4,10 @@ Sub UpdateOldPatentClaims()
 ' Licensed under the GPL License v 3.0: http://www.gnu.org/licenses/gpl-3.0.en.html
 ' If this macro helped you, consider donating at paypal.me/stnagy.
 
+' Disclaimer: No warranty is provided for the use of this software.
+' Software is provided as is.
+' USE AT YOUR OWN RISK.
+
 ' Macro does the following in sequence:
 '    (1) turns on track changes
 '    (2) removes all text that is formatted with strikethrough
